@@ -1,0 +1,12 @@
+import = ["~/.config/alacritty/themes/nord.toml"]
+
+[window]
+opacity = 0.9
+
+[cursor]
+style = "Beam"
+
+[font]
+normal = {family = "JetBrainsMonoNerdFont", style = "Regular"}
+size = 10
+
