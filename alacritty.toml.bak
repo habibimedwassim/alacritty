@@ -1,4 +1,4 @@
-import = ["/home/wassim/.config/alacritty/themes/onedark.toml"]
+import = ["/home/wassim/.config/alacritty/themes/nord.toml"]
 
 [window]
 opacity = 1
